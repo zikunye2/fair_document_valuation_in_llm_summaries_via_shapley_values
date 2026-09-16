@@ -1,0 +1,77 @@
+{
+  "model": "text-embedding-3-large",
+  "dimensions": 3072,
+  "input_text": "singleton summaries",
+  "source_note": "New API collection, not the missing historical embedding cache.",
+  "collected_at_utc": "2026-09-06T21:15:08.269545+00:00",
+  "files": {
+    "results_10_Ecard_final.csv": "results_10_Ecard_final.csv.embeddings.npy",
+    "results_10_ps5_final.csv": "results_10_ps5_final.csv.embeddings.npy"
+  },
+  "records": {
+    "results_10_Ecard_final.csv": {
+      "query": "The Delivery Speed of the Card",
+      "input_sha256": "cd42f263f43aaaad88de97bf6c0d0b6678d91055a8d3a690c128d59344692189",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "singleton_summary_sha256": [
+        "a71660a388144ea560c12e74d68b482e75e79ee81cb1ac13ba4c70e00acbb89f",
+        "0a118f150db89ecdd5e2a024a2f2da45bbb5c444e82c76205f90047fdce85295",
+        "0f5957e6f4cd0f613c514a5435b38822f116df398e3eb09e703762e417f8cf56",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "445fc319c0a7c7bacb226d45e4ec2d09020aad73101990250784c17cbc736e11",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "3b1f6a43c3b52cc982c90abc1d473ad23d87989f7d56253114333500b8329b55"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "06d8a1ee2b1440fc3afc9b6461c686ce8a261b132d8a9e4aaa7fb8751e84b400"
+    },
+    "results_10_ps5_final.csv": {
+      "query": "How’s the quality of this product",
+      "input_sha256": "5f354624ce8e7c19e80077993d5594ba4e30830c24d1fd777831af3dc07b3ab4",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "singleton_summary_sha256": [
+        "4d5ab3561a5792a43e3f51d9def56e69f75116c1eb277fbf5f19f6115b635e7f",
+        "8919cc8f10b2ae0f36395af1a143ede5cbc9db83001e5e905ee12a76edddbe6b",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "781b49cf30de53ce022d302b06b2ae46312b0e13291209b8ec73bdc53d5ee8b0",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "3afc9b8d3ea5936f7ed7269969d4018cf764e5d61377e5d1d3e84245c2a96e46",
+        "1fc05bcae9f254123d162bb040e00e278aafd63bc6c881a5e0c0ad89c6b8cbd1",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "1055438fd85543ea7bddc454e8d7aca27fe106fe02ae845e37f3d79470d7fb98"
+    }
+  }
+}

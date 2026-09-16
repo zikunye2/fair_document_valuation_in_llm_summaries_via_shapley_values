@@ -1,0 +1,53 @@
+{
+  "dataset": "Shapley_the quality of the product_switch.csv",
+  "model": "text-embedding-3-large",
+  "dimensions": 2,
+  "collected_at_utc": "2026-09-15T18:32:23.467250+00:00",
+  "collection_date": "2026-09-15",
+  "input_text": "review title, a period, the single-review summary of the archived game",
+  "texts": [
+    "Cheaper price, same great quality. [0] is not related to the query.",
+    "Quality. The product is considered to be worth its price due to its durability, as the controllers last significantly longer than off-brand alternatives [0].",
+    "Great Quality. The product is praised for its great quality and price, with the user noting that it worked well compared to a previous purchase from another seller that was unsatisfactory. The user expresses satisfaction with the seller, rating the product five stars for its legitimacy and performance [0].",
+    "Great buy and Product is exactly what I expected. The user expressed satisfaction with the product, highlighting that the quality met their expectations and that they appreciated the red color of the item [0].",
+    "Five stars. The user highly recommends purchasing the original maker's product, suggesting that it is worth paying more for better quality compared to knockoffs [0].",
+    "great product. [0] is not related to the query.",
+    "Nice, new and crispy. The product is described as 'nice, new, and crispy,' with the user expressing high satisfaction with its quality. The vendor and price also receive positive remarks, leading to a strong recommendation with a rating of 10/10 [0].",
+    "Quality.[0] is not related to the query."
+  ],
+  "embeddings": [
+    [
+      -0.056396484375,
+      -0.99853515625
+    ],
+    [
+      -0.455078125,
+      -0.890625
+    ],
+    [
+      -0.31201171875,
+      0.9501953125
+    ],
+    [
+      -0.861328125,
+      0.5078125
+    ],
+    [
+      -0.99951171875,
+      -0.044189453125
+    ],
+    [
+      0.025054931640625,
+      -1.0
+    ],
+    [
+      -0.97216796875,
+      -0.2352294921875
+    ],
+    [
+      0.89599609375,
+      -0.44384765625
+    ]
+  ],
+  "note": "Two-dimensional embeddings as used for the published Figure 2; the Figure 2 scripts cluster them with DBSCAN (min_samples=1, eps=0.05, cosine distance) and min-max scale them to [-5, 5] for display."
+}

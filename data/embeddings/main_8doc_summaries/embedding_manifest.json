@@ -1,0 +1,1405 @@
+{
+  "model": "text-embedding-3-large",
+  "dimensions": 3072,
+  "input_text": "singleton summaries",
+  "source_note": "New API collection, not the missing historical embedding cache.",
+  "collected_at_utc": "2026-09-06T21:14:35.506679+00:00",
+  "files": {
+    "Shapley_Multiplayer capability of the product_Super_Mario_3D.csv": "Shapley_Multiplayer capability of the product_Super_Mario_3D.csv.embeddings.npy",
+    "Shapley_Stretchability of the product_headwrap.csv": "Shapley_Stretchability of the product_headwrap.csv.embeddings.npy",
+    "Shapley_beauty of the product_Crystal_Crowns.csv": "Shapley_beauty of the product_Crystal_Crowns.csv.embeddings.npy",
+    "Shapley_cleanliness of the product_Facial_Wipe.csv": "Shapley_cleanliness of the product_Facial_Wipe.csv.embeddings.npy",
+    "Shapley_comfort of the product_headbands.csv": "Shapley_comfort of the product_headbands.csv.embeddings.npy",
+    "Shapley_comfort of the product_headset.csv": "Shapley_comfort of the product_headset.csv.embeddings.npy",
+    "Shapley_delivery speed of the product_gift_card.csv": "Shapley_delivery speed of the product_gift_card.csv.embeddings.npy",
+    "Shapley_durability of the product_nail_polish.csv": "Shapley_durability of the product_nail_polish.csv.embeddings.npy",
+    "Shapley_effectiveness of the product_blemish_formula.csv": "Shapley_effectiveness of the product_blemish_formula.csv.embeddings.npy",
+    "Shapley_effectiveness of the product_dental_tool.csv": "Shapley_effectiveness of the product_dental_tool.csv.embeddings.npy",
+    "Shapley_effectiveness of the product_nail_aid .csv": "Shapley_effectiveness of the product_nail_aid .csv.embeddings.npy",
+    "Shapley_effectiveness of the product_tint_Kit.csv": "Shapley_effectiveness of the product_tint_Kit.csv.embeddings.npy",
+    "Shapley_graphics quality of the product_PS5.csv": "Shapley_graphics quality of the product_PS5.csv.embeddings.npy",
+    "Shapley_healing property of the product_Gauge_Gear .csv": "Shapley_healing property of the product_Gauge_Gear .csv.embeddings.npy",
+    "Shapley_noise level of the product_Tone_Cable.csv": "Shapley_noise level of the product_Tone_Cable.csv.embeddings.npy",
+    "Shapley_practice braiding with the product_mannequin.csv": "Shapley_practice braiding with the product_mannequin.csv.embeddings.npy",
+    "Shapley_quality of the product_Bath_Wash.csv": "Shapley_quality of the product_Bath_Wash.csv.embeddings.npy",
+    "Shapley_quality of the product_Crystal_Crowns.csv": "Shapley_quality of the product_Crystal_Crowns.csv.embeddings.npy",
+    "Shapley_quality of the product_Gauge_Gear .csv": "Shapley_quality of the product_Gauge_Gear .csv.embeddings.npy",
+    "Shapley_quality of the product_Hair_Diffuser.csv": "Shapley_quality of the product_Hair_Diffuser.csv.embeddings.npy",
+    "Shapley_quality of the product_Makeup_brushes.csv": "Shapley_quality of the product_Makeup_brushes.csv.embeddings.npy",
+    "Shapley_quality of the product_Massager_Scalp .csv": "Shapley_quality of the product_Massager_Scalp .csv.embeddings.npy",
+    "Shapley_quality of the product_Super_Mario_3D.csv": "Shapley_quality of the product_Super_Mario_3D.csv.embeddings.npy",
+    "Shapley_quality of the product_Tone_Cable.csv": "Shapley_quality of the product_Tone_Cable.csv.embeddings.npy",
+    "Shapley_quality of the product_blemish_formula.csv": "Shapley_quality of the product_blemish_formula.csv.embeddings.npy",
+    "Shapley_quality of the product_dental_tool.csv": "Shapley_quality of the product_dental_tool.csv.embeddings.npy",
+    "Shapley_quality of the product_facial_wipes.csv": "Shapley_quality of the product_facial_wipes.csv.embeddings.npy",
+    "Shapley_quality of the product_hair_brush.csv": "Shapley_quality of the product_hair_brush.csv.embeddings.npy",
+    "Shapley_quality of the product_hair_curler.csv": "Shapley_quality of the product_hair_curler.csv.embeddings.npy",
+    "Shapley_quality of the product_hair_styling_agent.csv": "Shapley_quality of the product_hair_styling_agent.csv.embeddings.npy",
+    "Shapley_quality of the product_headbands.csv": "Shapley_quality of the product_headbands.csv.embeddings.npy",
+    "Shapley_quality of the product_headwrap.csv": "Shapley_quality of the product_headwrap.csv.embeddings.npy",
+    "Shapley_quality of the product_mannequin.csv": "Shapley_quality of the product_mannequin.csv.embeddings.npy",
+    "Shapley_quality of the product_nail_aid .csv": "Shapley_quality of the product_nail_aid .csv.embeddings.npy",
+    "Shapley_quality of the product_nail_polish.csv": "Shapley_quality of the product_nail_polish.csv.embeddings.npy",
+    "Shapley_quality of the product_tint_Kit.csv": "Shapley_quality of the product_tint_Kit.csv.embeddings.npy",
+    "Shapley_size of the product_Massager_Scalp .csv": "Shapley_size of the product_Massager_Scalp .csv.embeddings.npy",
+    "Shapley_skin softness of the product_Bath_Wash.csv": "Shapley_skin softness of the product_Bath_Wash.csv.embeddings.npy",
+    "Shapley_smell of the product_Makeup_brushes.csv": "Shapley_smell of the product_Makeup_brushes.csv.embeddings.npy",
+    "Shapley_softness of the product_hair_brush.csv": "Shapley_softness of the product_hair_brush.csv.embeddings.npy",
+    "Shapley_speed of the product_hair_curler.csv": "Shapley_speed of the product_hair_curler.csv.embeddings.npy",
+    "Shapley_texture of the product_hair_styling_agent.csv": "Shapley_texture of the product_hair_styling_agent.csv.embeddings.npy",
+    "Shapley_the product sucks_gift_card.csv": "Shapley_the product sucks_gift_card.csv.embeddings.npy",
+    "Shapley_the quality of the product_PS5.csv": "Shapley_the quality of the product_PS5.csv.embeddings.npy",
+    "Shapley_the quality of the product_headset.csv": "Shapley_the quality of the product_headset.csv.embeddings.npy",
+    "Shapley_the quality of the product_switch.csv": "Shapley_the quality of the product_switch.csv.embeddings.npy",
+    "Shapley_travelability of the product_Hair_Diffuser.csv": "Shapley_travelability of the product_Hair_Diffuser.csv.embeddings.npy",
+    "Shapley_unresponsiveness of the product_switch.csv": "Shapley_unresponsiveness of the product_switch.csv.embeddings.npy"
+  },
+  "records": {
+    "Shapley_Multiplayer capability of the product_Super_Mario_3D.csv": {
+      "query": "How's the multiplayer capability of the product",
+      "input_sha256": "057fa8b25a6b77179c67994d2964ddb1c67cbe7c6d134ad433b8f9bf440348e7",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "e6268552d739a66d22a376d2780e9b6c33cc0e22712aa237ade16505e8742f6c",
+        "0edec65984dd6d66030a0f83a8d36d34abbfbb93c94509d75952624c76b64170",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "005cabc07a8f1094484a08c983ffa870a245ce138236b8413f3530ab3a7d9516",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "3dd51430d4c6d93fbb0fd01f69cb3f1f77d0d4693065ef45c356257a2b5f6ba0"
+    },
+    "Shapley_Stretchability of the product_headwrap.csv": {
+      "query": "How stretchy is the headwrap",
+      "input_sha256": "15976abb1dd4e2d47fcf56dba336f5879948bab958b2b381b06e91a616a56e3f",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "b9ca22bf873b855992e51bf17c36f1946caab9d56c5a202f53698b95d9bff433",
+        "b644a60404f8d9e0f8249afd371c0b3072c6f23736177c36317f7fe953310f2b",
+        "da7b6ea26bc567d28c942ba0d127b8b902837c5f7a7e393cc97678ea15ea3c2a",
+        "1740d00118e2649eaaf8216711fac66fd5493eca0bf377d37841245603fab779",
+        "327de7a0a53fbfdc8af75e75a793406739595d0e911f5dd01ee673b1995a5779",
+        "7113bb5dcbf0452b2dbf3e95df3dd70aef82db6e4d5f132342ea6254f05fff54",
+        "a2d8876091eeb55299aa831eea7a3b715fbb1c59e6344be9fd6db25f899feb13"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "bd7b2fc09093543426ea176e7af8bafd61c85ffc1ebee060447dc8b5f5f5b101"
+    },
+    "Shapley_beauty of the product_Crystal_Crowns.csv": {
+      "query": "How beautiful are the crystal crowns",
+      "input_sha256": "e2c454b676ecaa10e4dbc13f7149b643cbff472d38f97150fb05ea7371906d64",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b6ea0a5ec369714da3beabc14dbdd310abc5415881f9636b973d3d2567bee8b0",
+        "9cadd72894e350eba203262744ade60225642707be21c475bb36dc8cb241ade8",
+        "3a62f41c8b240e0df8459dbee3de10f80ae142ee4d2476a122955f3cc02ac5cc",
+        "02298f74c5154db304ae19f0e0638ebf3dd2b9a91bf5e098ce99ab86db5d6e28",
+        "5e3e509219ce7971cafaf5272e751e4c11de4957cb4e25d3d38a3ed2160b72e0",
+        "ffebc4a2c27fb50a19494bbc9a17f29dbb7ff648fa5217084d7dbc1ab00eb8a7",
+        "938aa7f7b557e62b5da4d74f53ee25e2111e983e302ca9b35577b2d0bfbe3c5c",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "514278a7ce18b4ba30e9638b433bb7d97fa18c41eb5af51ec4e7c25db650e50d"
+    },
+    "Shapley_cleanliness of the product_Facial_Wipe.csv": {
+      "query": "How effective is this facial wipe at cleaning",
+      "input_sha256": "8b079954bc2002b5e0e1bfff2cb5e92020fa14f6cbfc1bc817a66508dfb8222c",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "d7d05e75d84c49442d6024692e9018a05b92069ab62202bc6742f54e0ed4f1c9",
+        "1550a0d2382ac44dd2a6c6019d88a5fddb76811077645a4a94fe1dcc0a4dd1ec",
+        "5b75e2416fee89c00172198ae1988158210b2895168ca263fb2dc57c7b459ef3",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "0b6c3bd04a7d37b970bd2707ca9b7e2083038043e4cc35dd0447a9a449e6128d",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "e18090a24b36bdec3d9e4720bdba3ec036e6563937a2fe9146c556102153025f"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "5d8129885b57cf596fdca0b4f2a7ee93656e267532b0e8cc66bbbbe0282ebe0e"
+    },
+    "Shapley_comfort of the product_headbands.csv": {
+      "query": "Are the headbands comfortable to wear",
+      "input_sha256": "3829e3ebcd5144ac2a7a7dad81c63758fb2c1a0259aef9c4362b4e10258a5943",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "9eb82e4a3ca6298f0826f2fd970c95a39a9b2c8984ff5f4daf9a5fd8bc78f4c2",
+        "69ad2052471db0cee135c28ff4c649080d0a9e76e4c6409f353dd77c9a9b281c",
+        "1f44f1bbcb64f5aef0f7036cdf93dc751936ab0be46a9205884d094e14e4236a",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "856456ce4a6dec22f6a4f9f0dd30e8d70425fb1c94f30554b0c17a1ce4b8a5b3",
+        "c97cec310143439785e8fb9aee3e3a4842c5c24adda96c2ca0cb0e5680fa27a2",
+        "d7d829ebe612552962476efc0394f4f25cd48e0b7d1c924bb5b2cebd9b782e87"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "82518e92c6e1b9931955aa001ea6f67700b368f9eda1a2b3f98924cb28787afe"
+    },
+    "Shapley_comfort of the product_headset.csv": {
+      "query": "Is the headset comfortable",
+      "input_sha256": "13ba04e2eca2dc1019d576d5c11d0a3585f58dd2f9b9ec9a9fb7265aa20824b1",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "73f8a6eebefe898a179966c29f0e0c8bfe8eea45c1efb2ea2a14a9642127edeb",
+        "a7be33110a90f21984eabea72e3c3563aef410702a5f9e11bb8ef35abf7fb3c1",
+        "e2621eb873c542501b128705df700406604b99639a5b5be176a8dbd303fd7d13",
+        "454b54e04cd0a57e467daa8265516d5fcc3563bb37ff735b01f3b114d2f5af02",
+        "023dd4d9cd6dd56ae0b95c461e01d2f2185ef9f1ec2469a8d7cbb5f15dbc97b5",
+        "711c125979d8f9521ed1fc71fe598ebf331567ee85f7ac63e03776b56c1355e0",
+        "9e737c449b364c2dc630766c8046bb48bc99edafab9f2c2a4910aa0e0129c203",
+        "54e6b8ce1463ddf5ef6edb7b7df94e84e17791696e58429280f36a2cd9b60efc"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "6a0c20627fc4670ae0d59bdccda4a0a1bfb949d7ff7ecfb07c2062ca89f3da34"
+    },
+    "Shapley_delivery speed of the product_gift_card.csv": {
+      "query": "How quick is the delivery of the gift card",
+      "input_sha256": "95632310fc81a6ff5ef74d4282e980f997dd75036841a91136d61e588b1de781",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "8abd10bb58bb6ce71eff11efc7219d0258c036f5851058119bc06e39f4a50361",
+        "b45621e08a8e17067db998149505908fc2b78ae8b0bc8ba932bbe396fb89f860",
+        "79fb4f918e66d843cb89f59513e3e4ef973e5fe071b687eee20f7bac82a210da",
+        "8bb34d83f8d83c90850fb134fe3063a02030d357a38796d47b3e0b69dd2f137d",
+        "005da22231425c01cd0794bc340db84016c1767fe6590bd4767502f32a024e7c",
+        "2e263c9beed3bad801ab446021b6f9b54cd4adb7ef675aac1f59acad19256e49",
+        "310a71d1bbdb568b38d82b9be1950225f54030138f54a06d7f2ed0776fb64f2b",
+        "1cc5de7e785e3a18091bbe9b50b089e330eb15f4319c2d82971ff5feddbb0b55"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "0dd148a9289a1ecba5cf5407bf9704d1404f0afb75dfdc76076cdbb9ba670d3f"
+    },
+    "Shapley_durability of the product_nail_polish.csv": {
+      "query": "How's the durability of the nail polish",
+      "input_sha256": "fceca6997c3e2c753a13926e34ac211d1cc85c44c03a46069961d9efbbd4caaf",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "13211eb20ef40fdf23d3a0cd1add84af3b20271c75b258e3e3b35d63582c46b5",
+        "204e58279b1f7e04029cc6873996183181eb9c81813012cc041d4fabe957d117",
+        "8ebe1521d115003e76819219f2666318bf9be8e78e5f307fcaf2e4dcd5e487bb",
+        "c3d89f605f155c98b58b711f36b0b7b88da0e15c924e358576a13ce485ecf690",
+        "d175e2504218ecbc6adce7c933ff8baf87c0d48906886e20829d8cfda1240fbf",
+        "50252739703eac2946bc41d5f78073d5bb6ac94e460166c0b935590d0ba0b45b",
+        "a91d002898040cf995c34a63c55d0ab54fb407da2609e3efb4178e4547fbcc22",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "8e846189b4e489b994b1992307e108501c6bb94106247256eb02112c30d41139"
+    },
+    "Shapley_effectiveness of the product_blemish_formula.csv": {
+      "query": "How effective is the blemish formula",
+      "input_sha256": "2b8581bba8aad25fa2cb064427cae6e38a85e7b81c6fdb9d112222996363c484",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "c08032e68e59b4b8e873f2cff8356b283989d8ac438982ade023cbe698ef6288",
+        "2d8bc5f1c647db5c400576830a1cfcfe8f2dc566a31cd1736835ea0d7652fada",
+        "2759bd4438fcca6cd050a3232e7c20ebd00cee75cafcf30cf7f6bbce8fec57e0",
+        "01a06b55302ee005cee8b6ae59ec975d205ee3e214e83a07a9006cf8e121442e",
+        "e5f1aa3ae01ca0ce0e30e8d60017f68cb9a408c729fe28a2bc944a8b811782b1",
+        "a9f7ea7fd9eea445bbcb5bc6b70b27e44fba4306d14b2109943c07a5d61b0ba9",
+        "5f1a07d026ffba717dc2d3cb470e5efcbc032a9478091273efe58b0fb9c55a69",
+        "761482174219cb48cab2a8fc419a9f55b1266cd68c44dfd66f1e1b8e5ec4fffa"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "c7dd6ef1cbdf01b67413bb3037711f15f62f87cfe2c16a9819eb5c24cb999b5d"
+    },
+    "Shapley_effectiveness of the product_dental_tool.csv": {
+      "query": "Does the dental tool do its job effectively",
+      "input_sha256": "55cd44b2e2dd923bb815776e6ca10d30defa1b26f5057cb61f58d605028468af",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "e8341b70567642e3d2644a93269414d7a603c932f9b8edf99eb3f0835c42c645",
+        "b11b6e84fea0c0e3694c1141b799d6d6c0f9089623df5d650274dfd13b859e25",
+        "f26b08aeb83f0d4efc16e17f6d729709c23b48a04e1ca4039d2c941f978cdd7a",
+        "23792684c915dbdcc77fa44fd565fb053ceac97bd3333176d1746fe876ae51d8",
+        "dc3c9de867fa80288b508570357a549f6637e37610fe73f206b155caea52a035",
+        "cab03054796fa87837740982a74fd43942c6f8011030d8dd8e168784b359aa09",
+        "18eb802c4c06facb15882e9eb8174a557105d3566ffeb97e336ae3e79c8f3126",
+        "76249e250a8b157c82c92055d9f265065105e545211feb200b7d9802ab7341d4"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "84eb75854cd88dac15be8864f700b70fc9f08558d950d99957118db79ef10d3a"
+    },
+    "Shapley_effectiveness of the product_nail_aid .csv": {
+      "query": "How effective is the product",
+      "input_sha256": "9746d3f1902380e892bb8ce67f133ae2af05c41d247a4876d41aad733b562bf7",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "46d169a15a13f5914700b1f577c96176f25cdde3af66efb068ba3919261b8b2b",
+        "2cfd6d7e3bb5d02c3ccb29dc39e4e81377e89e8e3407f435eac43160b0da8215",
+        "ba089c1e755511636ea775a8bcabeb08e92c596e516427c85387dd909733f2d3",
+        "d630eb99056fa0d59236ff2d742b90323fc8421ad33b9480da213e9960f57cfd",
+        "cb90a17ba0bd332ada95cb66399fee7925172c75c1aac9cf32189d7067148e02",
+        "86a32561ca9fd0e51a362a4af10c1e8856e62c81f00349d474b967e840ad6b40",
+        "b23b08a543f183cf13ecd9e849625de6a5c0648c926c2cc93610ac6ff6368617",
+        "da5e8288e03b198449ea6ed9f9c798179e401ab7ab90e136d0bf90e4387f6935"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "2aa4a0147ccdb41c003c4e77ba376eb58793d57560e379d44fc2591bd27aeed6"
+    },
+    "Shapley_effectiveness of the product_tint_Kit.csv": {
+      "query": "Is this product effective",
+      "input_sha256": "7172df1a4cb447ba87165553a879bfab2e79d7fc9c5c9fd4b2b6b2a3c1d55488",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b0f3a0a56445249fc0dd45a8d4ef348ce1ef23c528d0a4f042d13988b381a6ec",
+        "0413d9e6997838d3b5222f1737c5b8c249943d9cb68c26b0b2302fff15d1acd8",
+        "cad8b73fef974c74a5918e60a461e6c1fc47a1736c65564f26ce196fc7434909",
+        "f3c8df1f8dca14ce3ef66a9c0d63401bde543753bd19ae484b86a010b3000626",
+        "13142b6da3eefd13b1dba4f42a7070fcbf02c90a1e58bdd015b07464b83214e0",
+        "2c277934383c42655f6c12c8e293f2f5ae1ae17b8fade4740f9780fd4766cb63",
+        "98b96d51efab3ced4e175650066fa13aa897034ff826f8a4d69d848996ca2e22",
+        "08ed32bd0c1565d21651c914df3bd3c8f2b19a565c8d9d6f2651b20eac4f5591"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "98b41802514f423320c21e01ae673499cc94b0f4982ef638f1d70a714a88453a"
+    },
+    "Shapley_graphics quality of the product_PS5.csv": {
+      "query": "How’s the graphics of PS5",
+      "input_sha256": "8b5e89c7ba6a6d0579f6a39300d4186eee3801ac104f90a8a073843277e78657",
+      "metadata_warnings": [
+        "CSV has 263 distinct row-level original_query values; the first-row query is used, matching the historical revision loader. Archived row metadata is not rewritten."
+      ],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "0c9c3a326d1cf62501327edcc2c479f7b269e2a20d4151d12785982899dc3e7f",
+        "f2317572159f19bb6a6c13f54c0e31bd0b0754ee2089e0e5f1152f646238de8c",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "8f83c9abd4012838d011fd211ea568f0f51107eb19e4e9f7c0f406965024ad62",
+        "47ac274403185dd36be7267f191702eb4d8d426681834773b3ccbba83fcef94e",
+        "41d3ce043d7b34c72bb439b33b04aba61b6437d79ab32ae382af48df3bb1ddb9",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "858f7995ebf7e39076b1ef5fc7cfa5b7faa2ef64ecae81f16beeedb1264bf2f1"
+    },
+    "Shapley_healing property of the product_Gauge_Gear .csv": {
+      "query": "Does the gauge gear help with healing",
+      "input_sha256": "775ada8fe5e0f4b2abfd7b6c023a18119f0eaf83c2fad426250c598eeac7c576",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "aae7c1d691ea9bcdabcba662202ecc386f73aa98e0d85d2e272ecd5558ced464",
+        "57f981e0a3a537384c471de0fe8a214b817fa404a83a0d583c5b0f39abc77a83",
+        "3bdd789ee00e0f80ab7af67a9c379255e9a51dc248dc969e184f3237315e849a",
+        "5e54c4ce025826685c6f2ac1bdae42d590601079fcc6ab3930e3def07bee87a1",
+        "c27f6d97795e1f6dbebd8fc213538eab6d48d3be817af007cdf75f5c6879300a",
+        "6863c778c235e020cbe0bcf888f35507078911a1962755616f5c182e6692cb55",
+        "7dec62118ce4c7e7dd964b319754eec88f677af1e9ce0fc9fd197d46bc671a5e",
+        "dcb08e180cfc9bb0250a3532cb889ab5e151dab59461b490285b285a720d40a3"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "13044d2e5dbbc08e858231aace333e07c387f5cef79ba4fa503321d5714f55a9"
+    },
+    "Shapley_noise level of the product_Tone_Cable.csv": {
+      "query": "How’s the noise level of the tone cable",
+      "input_sha256": "fe9ddc80627d7da2108cbd23bae936a0c09185fb32e622b89e1798c09bf0d72e",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "ec2b42c4366138ab4447dbd07a6f463964bca8c41c876b14fbfd11b0b120b2ac",
+        "1a7ce6194ef4ed7a221fb88c41a36cea916252e8dec9be167d8ebf739da7a93a",
+        "aa58b2c51cd01d7381d620b01dc0f059b61c181126db4aaa9f7bd48e303cbdf4",
+        "e0cb5d998f7ece0fabc39bb3ca44340820ec1c4b5b44874c70e8018afa501efd",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7371ba0026cd5cd37b21435b85711c9203f5a889ff08f3cc1989d2d38bdc61df",
+        "828055272f37273516c67cf5a125db098e194e1f1865b3465aad01cc75e0d130",
+        "f498102d6618e6070437af828febc66f4226dfd515b0fc9c57fbd54c1e79682d"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "2fcd5ff166335492d287318dffee0341cc919a22ac86d5e7c27e776a5d38204f"
+    },
+    "Shapley_practice braiding with the product_mannequin.csv": {
+      "query": "Is it a good mannequin for practicing braiding",
+      "input_sha256": "75e1285eff9d46e7e025382568f475773194f6d527d15d5c7f9d3e61fa44da5d",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "008714e21acc8f0c05565d2f60f248d2852d71d1a09fb2219bff550417669923",
+        "3e1bcb59b250aeb62ab46b19fa702685ed7184de50e34b8854980ca75c6dc6b7",
+        "6f88726843814d2b7151d2edb6e293c3579492d5389ac2b357f1c0893621d66f",
+        "4cf59b2404d6c5c720f27b7e7713bd10c8873c1beb24bab1a5bd59d7b2cafb8e",
+        "3c44ca064a2e52af85fbef7735d82cba3a9a2d65a8574e453e7f2aad830d1066",
+        "b35ce5b2a6f5919dbb853dc93ce0b27f12818c9778c3453f0a46323032b57462",
+        "e6e5a1f94f7800c47b991ae5b915ae0318aeb30eb188641d8388a4de669a9711",
+        "e7c56eddd1554164ed3bb9b3ef43175be1c35f15fc229d898414ebcad463725d"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "8aba1456cd6cefbc2c7b0d8f4387c809159ebedebd63619b6d4f9dec9e0f7917"
+    },
+    "Shapley_quality of the product_Bath_Wash.csv": {
+      "query": "Is the quality of the bath wash up to par",
+      "input_sha256": "963b47e5d6dbe41d05b4aac1efdd164c3838cc777ac82dd6411d54e63f299e7d",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "3c825db41ef119c58e0612c40395a0ace9d0ab53647a0a1929be0294479dc8f2",
+        "282f0648435fe2d85c55fb51f405446cfc4e1d4a7c6acec1969a8980a6918ead",
+        "87b5bddf8a7473458320bcd8136fd4732c643ac40f7dd5865868f210e9485ceb",
+        "3e92bd83cac8cb1a458ead3dd260494072772d8af313f27adf0bf5a152a5996a",
+        "72a00e9b8b495d043bd54db593126caf1bcd798dc77b0cbf4f744e05774f8c35",
+        "006c7aebe70a86260156ba785dd7ab62ebed2a8cadf39e1317a9177c8c2e2409",
+        "8c5e7f59005cf1aeac0e2aa0e2573a6f3806374a56c39e3ddcbd8f6b1d92db85",
+        "ea076d10e03b8f0645b87dcb7412390de3dee494543b15a6b574a3820e625de4"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "a8ae74b8f7a117b79376b2a6bd414cd1e5f1ab50fa85f9c0fef187381dfd646d"
+    },
+    "Shapley_quality of the product_Crystal_Crowns.csv": {
+      "query": "What’s the quality of the crystal crowns",
+      "input_sha256": "aa757155f552b0fc53460b9cd61e40899ddaa02e17b2f6b35f93d7ffb669ae93",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "1cb7eca33fbb0d35303db8cae8db688052e3a89bc04c1f3a5290dfee26ed0bc3",
+        "1b6ef0db28ad374b45c77ec2279b4f91a2e6e7eb0e6726268c522efb82e09791",
+        "782f1fe633e9a58fd66f26ceea214cd6e34acb4ca4d50041944a64e4443ff601",
+        "9b93b60f7f3c603373c3ee5b0730c7d4c0e31c3318fc9ff81d635f6bf55fbd92",
+        "f70e00f44160e5e80023e15821054277fd4859989a9b65868a283b7051951e1b",
+        "b14c478315426836bce85ace40a45c6d13ac10d8bdc063a7e8a3cbda960a2d4b",
+        "aec9f3d0d6efa494ed33d76dcd0bea849b5659e56215e2c27ec683521cc0899c",
+        "0865ea989e33a312e006f2495ac5abbc80b06d53653e95069578f99a975b0f22"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "b22bbea958878f5adbd086932e5289d45daf920fcbef83ab3cf04412e789a283"
+    },
+    "Shapley_quality of the product_Gauge_Gear .csv": {
+      "query": "What’s the quality of the gauge gear",
+      "input_sha256": "7379931b83cd427773495a14baa5372a5cc9226183a58a41961c7e35c4dd3142",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "342f886de5df3ed151a239d0c8d877d6bf6d2385b3e9527586357641682e7ad4",
+        "142e938da8985c7c69629bb807a65efe07915ee9defd487bb54c7fd8901b2e32",
+        "03720a8b5840671195a26ed956054e5e9b463f922c4488dfceef6552a5a95b2c",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "e641dbf5963b08445edf577b43488a527e1f141c25dce34d0aac610e463702b1",
+        "9531d40e694b768fd7c3fb1dd169b4587bd687119c696e16b16ca9485dcdd19e",
+        "54a6fc7b16d86efe8e2bfb5f3edc819b2afc559bc68052cab0bab6e3be61435c",
+        "b941bf87bf5c5324f0b5179efa2966a9d0db2e3f681a031576a6ae93e081f290"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "fb3726509c769d2a1c03be0ce66e1a85710cb97977ad78d4c65dc3795a1957f4"
+    },
+    "Shapley_quality of the product_Hair_Diffuser.csv": {
+      "query": "How would you describe the quality of the hair diffuser",
+      "input_sha256": "190f6ba45bb16f4ffece450ad77c7ef597b51a6b9a67a1229031768ef5f6d159",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "8b81258fba3bf7ac29cea0f1e9d85c7108e55f95b5a8c0a00b1d38f0136afe41",
+        "c9e8cf229857c13c83f141feda037fd028fc67ba02e412acb379eb245045b045",
+        "2c2991a2065829e384825e0b27aab25bc6aa7fb2f5601aa31d1d845407ca36bb",
+        "509dc95edaa6b61930c99545ed680ba70eaf0338c009543bc3ec1044d105ea87",
+        "8f6e96b4e86eb19c637de3b196dcbeb118008bca8b09d77426fe459dbb3d16c4",
+        "79a1bc090f0ba98b175c861c2393cb4c50d4cc8c7ccac9b6b162d4dd00cea3a3",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "e7b7d33d57b65af448319b51b87eb0487281f0d96638aba0138e26aa44246a5b"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "8a3a2354cf29ff623a2e841ae1847aa934a866345c5063b81e86987208e0039b"
+    },
+    "Shapley_quality of the product_Makeup_brushes.csv": {
+      "query": "How's the quality of the makeup brush",
+      "input_sha256": "5f43982d039109ce479e88935be04e944b3015bd71422e5806b6c483a22faa30",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "035a84047fd195058ad2e3617b9583286473ffa481abb34016672f68965826df",
+        "947c1ae24e8ed6a55320d2481ca7a7225a54b5f9444a2ddfde7fb2aee479aa7e",
+        "b512932cc3f9aac298c592628e781ea432e526de764625051bb97741d17190af",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "9e74e2fec29aac8ea8679713507c0db9a41f05c5939366de9c48b566b46db3c8",
+        "d140fd922cb5290d19242a4fc8aff54761905c6e0c1328f33d4d57c618afb1d7",
+        "6af2ec9567f9b6e4845446da55bf76cc7726b4b1351d71ff5e3dabe61c23035b",
+        "5f11792e4e092214b3645a9097cba6b037bcda2186be807fe89b0ae15ac8fbc5"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "07f020bd037b3d0ebf0448b4c45884fa9f5a579a91d9e9fe24c00eb90bac946a"
+    },
+    "Shapley_quality of the product_Massager_Scalp .csv": {
+      "query": "How’s the quality of this product",
+      "input_sha256": "c5586e2e3b49e4b51076edc1ab6813784e45bc862381fb637ab7eb5a035e0996",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "97ee42eb3814825f313bef1f23f7bca27b134bd68c4b5be9e0013996e2b90fb0",
+        "9aaed44938c58ad6a2704b8065b833515142786141a68e50b513f6397820ff0a",
+        "4123c97839704aed9642d163183a3617de5c4fb89f4dced71d3b05c6e84ab9dd",
+        "2897e7ef10dc205110517a56f6240aae1139f8da7a09074fac47433ff58051c5",
+        "ec2f775ad8a0e27900e28aa8ae2d5f5a87e82e5c4ecfe638ffd74dc0fd59e6f8",
+        "0afc772ee72840c0dacee54df6b5ee2acfa7ebba417364971f6eb48427e0ba47",
+        "5eec68255e8083643ccac8b999f71f688b5033f8dbebeb9d9db4183b96cfe082",
+        "4aaa5c314e133f7cdd9c8a6a77c2a64e30df3ffe904c9a76c00df1dee5dad9d4"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "df3d2f34def17be2f34bb53dbb44febaba261070fa2b418113db5fc29854e4dd"
+    },
+    "Shapley_quality of the product_Super_Mario_3D.csv": {
+      "query": "How’s the quality of Super Mario",
+      "input_sha256": "0d27bc7f2af12ee74839e24bcc1317f1a3f2b034d1fc19580588433a70908400",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "30843d8149509350c3f33e1c6febab4cb1280a7d7e39cd811a9297ebad956a4d",
+        "93734da23b15913b0082ed63f8356de0c38bc77853657dbfde46b36830fc9384",
+        "f8f93874f2d4a03e32dfd01e8a50e7ac80c2cfaaea8739b7f592fa21b84ff403",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "51e42ea7acb524a933a16795d4834dab419f430479369bcad580f3ed1f9841ce",
+        "ed3c75bf65c3cccfa976f1240e239a777ced514b3112f6448e9660837932114b",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "a9ad8bf1cd26e3a5b11f27d73060808038595d5c5cf13e71c8eda1d757a306aa"
+    },
+    "Shapley_quality of the product_Tone_Cable.csv": {
+      "query": "How’s the quality of the tone cable",
+      "input_sha256": "08def0fd1523a03a1b2aea9d4fd6108a9f6ec8aaacc6c96cda9870407c370c5a",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b71a7245d0adb23b4f2e01862f0ac60a478fa68b45e2badb4b3ecf51e7a58d5a",
+        "815f76e65a7896299fe1c4a28dbb52eceae4e38a6e33b6c2d320ccaa2187d8b9",
+        "905352979139878f1f32e39aeaf7c31a5a0eb14366ca9b71be15e26e820addf6",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "240217b315dfad904d6b26741549888e278572294101dc80d42649d6b337c034",
+        "a6de1a793a5ffee29494314340f52f0f7b64a654d379eb598598709883345ca5",
+        "f5293d582fbf79966532c0315909ed4307fead3f45b83c8eb996d42e252ce996"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "56a6f3ca57e798d8c62eb677684741d2c33f2e524e51e586716d16c381820619"
+    },
+    "Shapley_quality of the product_blemish_formula.csv": {
+      "query": "What’s the quality of the blemish formula",
+      "input_sha256": "c5a356a60dc44e79b3ff532025d13087aa1862db56f95aa4545dc765f2e73c19",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "bf3490c0dd95747d89ea86223d89e99f5b4fbcf932ebb2c5e8859cc5dc89e4ce",
+        "8ae659b985d14faaa78db3b322b43a62b106745e8f97085899fa5122c7366cb6",
+        "ec71f760f7c8fc8caf4bb806e89b80bb7462e52dafd66b9a69213f29c44e7b1c",
+        "3dea043aa8aefcaf8cab68d4f5907b7f7f7c2540ff68790ff71b6a5d931d8a2a",
+        "941d1e2847c8c81b63d9e2eea903ea5f584a1ed1c2f37408e1f593e351850d86",
+        "83bedfed2b0b18024284775bf6166fd32650f5a71072e32e1952cc7b17afe3a1",
+        "666c34644fe33dfcb72c387fb65257be18014cc6745af336cabeb8a2ccfba7d0",
+        "ee7aac73ac7559b22e0a043c8d18cf91c6d28eb9caf7c4872b5193f82c643452"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "536a418bbac09a423d42772316b912420813b05558dae39729551cf66ec308a1"
+    },
+    "Shapley_quality of the product_dental_tool.csv": {
+      "query": "How’s the quality of the dental tool",
+      "input_sha256": "634eb397a23714a527380086ffd496fa960f68d14a8faa9b295e596537c7bdde",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "908a54f1aa1f198f19716999cac64001353d49547182f93cdb8a1dff570fb5e1",
+        "07f63ff0abfea4ee0af46a933d3b652feb83f3b744396f5607cd4ccf58193bbf",
+        "4de16286c121c784d30cd02e37dd6c7d6b36f904568580068d50a72a1b54218d",
+        "1e42a21c7dc14904b36e782171b32518286cda4b57536a19ba005bbaa2fac2d1",
+        "4fcdecdbe286f3d155c7ad8aaabdfed72b6ec6dc85f1d1860757f507b12f891b",
+        "11d1d99207da0074e03c6b5515e4b565d1fe24f8639180970a44bf772b3f7c00",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "e9df7b07e749687971c4b540685294308ba55c7e14a6a41a9657afbe125fbed4"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "3cfc0773a30a347c4e8011bb8ca63db20fac848187a7a8d0eb7214adad863448"
+    },
+    "Shapley_quality of the product_facial_wipes.csv": {
+      "query": "How’s the quality of the facial wipes",
+      "input_sha256": "8a1c8a6ac2dea7beece72e151c21f0e1f4ff05632889bd4cbcc7575d649323c4",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "ff44b818546d3bc0755e4329b2fc899495fb483ea4beef955d18b65e1ceeab9d",
+        "324d304bbced4b590cd1be0bc6b99b8862a1ee370a8a86cc36ea6b3367666d3b",
+        "45a93d5e80f2e1452c3b496b1bc1b6892cd56cc2027c2dbfbcf08793fdffcff7",
+        "39ff8ac676b7aec7c94b25f6ddcb621ea42088b866120a2427040e756cc44ae4",
+        "2b0d88f16c6c198babcbc5435b31ae7f002bbe6aff18e669d8c009e79a89ba77",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "1ebfb71a58b88b351b69a059074421156a901b256d1c4d7ca971f5aeded824ef",
+        "6da5e8055cda861c3201b13da82750784493a2b8a445ab6c970ad1329d6c968a"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "defc1d706594a34732026bb2db5ef36a86e9d3bf1f3d13f5145eb46915652b31"
+    },
+    "Shapley_quality of the product_hair_brush.csv": {
+      "query": "How is the quality of the hair brush",
+      "input_sha256": "8f6bd37fb883b27e9be91d78d1e0e20e9fba2818a83e4f6e764fe25e271d0280",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b0d5748e63b9ce78a2565d89e43821e7bb835338c1943a4f3cfa52fc351eb42f",
+        "77a871d7a9c134407521a7284ccdd307c66e9052f3ca680ec836c6fe905dfe2c",
+        "5e0fbb0ce159e356f90f720ccab317869767081cc5d33448fcfe7b5670843bd2",
+        "3ae25abaa30b496e23140bab37b8301b49310bbc8cc81bf8c4c4d922f4662fec",
+        "ce3ee4fafed5e0e31756782ded30bf3c98ab8b8ea86e99cc468b9909232243bd",
+        "2b75bf4f927f30720762c6b2e4ae076ac65b1fd3081b88b00039564c925c1b98",
+        "8f423768effdab191b3b2e340db8187502463d884588c57d7aaef9d07c2c5459",
+        "e62ad2cfca25d5ccbb79940a1ffa659b1633673e0cdae57b05275a21b33b79b1"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "b9b1802538656f66a582c1ffec5cb9632752dfa7ccaea84cd7a8a0fce28c868b"
+    },
+    "Shapley_quality of the product_hair_curler.csv": {
+      "query": "How’s the quality of this product",
+      "input_sha256": "5daee593f443447ad8f97c4af0a048b05ba73862298664320e5f2af61e6e51fb",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "56c2989c75e9ca680c8e9d070ebf88082ba9c655f3b6f7c173538f26d87ee1a8",
+        "0da9d0b4bd8c1ba926c4e14aaa301534541a086c6aa3f89c29e1f0a00564befa",
+        "e8077cd63614a6b0c8766cd892ac218df61290e9a89203f275768cc7a8ba0ee9",
+        "f6a3badf45978f1a9195b2411cebf398001f7fe59b2e5112c6a1bcd3d2459173",
+        "127024a422a468722d208df698219fb721ada4bf48e95e3904a110235c6a1b75",
+        "d015b3d529acebb6d72625153f28cf5c84e2cea93797c3d7d1c83fd2ab9f3663",
+        "fb09c37315cb6f2a2220d96d3ba4212afc01deebd5c3d590cef1719288e0cc2d",
+        "6631efbb8969877f25681af8e9c0d29b58bb7e844e09649a5d73f0afc205eadf"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "41f1c59377f42af8a3bec8a6cd76b7da73cfdd39e73f6486879d98b73a44ab73"
+    },
+    "Shapley_quality of the product_hair_styling_agent.csv": {
+      "query": "What’s the quality of this hair styling agent",
+      "input_sha256": "c2ff9e8d16a54c8f3c0e700d891195fce38743de43b4ac9e7d96ef0efbc3e547",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "b14f29600f9e3e278a673ddd51f9a2c149075d683779302c544fc9d30665c041",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "428a7038bbf5d443c66d000de4e48e3b4028e34f7e3f1169a8f6015e71232e54",
+        "686e680de4514536888746cac3f9f746225b2f9a2967eb541a5a1f4448184c04",
+        "8194c7d329f38a69ef3a3e68426abfa4fe2764a393f9b0e387506da9cb74e046"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "22e5e42fa0795a0361cecb92e0714653340b107fb4e8b398e01eb94c8cf4c18b"
+    },
+    "Shapley_quality of the product_headbands.csv": {
+      "query": "How good is the quality of the headbands",
+      "input_sha256": "0088d94d7e8cb754efb501322769774f6a7c116564c467f2ee66dcd700719b89",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "49672c625893787fe9e8a79d1c164f5ed59f298ab90a6ab4ba41453fb1803ace",
+        "7397973889cf0dac4c47421cbe082b2a8cbe4efee841a09d3a36a67ed4e4502e",
+        "124c0e53a545d749cd6f95d5761ec714d8591f3be74d75f844fab4c82ed27809",
+        "22c7a17621259ce9b0ad436aa2d88602f6c07237d3e2d977572ea23b36aa778c",
+        "9f91b5d0f3645ef75c7d6af2c120423b769e6d7634a1e961eed2cd1c958af352",
+        "507c976b37b7f1d9792b2392ba73ea9be2298300b11d773de44ae712f0e2d1ba",
+        "e10ed4de86ea80ae919872eaa971c91ed81b3a268e833ed2d59999bf2f078f8e",
+        "74965852a3ec54cab08db16d31b9d8a13f5d3c8a64b887dda35a2158303077bf"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "cc8db429c2fae96403d6f6d09689da360919ec09365f0d39c1bb3ac6f46daff5"
+    },
+    "Shapley_quality of the product_headwrap.csv": {
+      "query": "Does the headwrap feel durable and high-quality",
+      "input_sha256": "98f39693a55b31a1c5830a6bbb6fc76d7befd970948040534eb24d5681afef12",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "a5d0bb16c98bcb10ecdaca0d1f51ef07e046b542922e69dfd1f5d092462f3612",
+        "817f7c5945ad543ebfc27c6017b60bc7a4d311432c0a5bf022f24b0f5872a259",
+        "023e9375a14bcc42963b31902561149c024a3050268d83b7939311b829d3ef62",
+        "823f1b1212449ef44aa1bfd735a96be515c56f25d2213e0fe3fa2da0b0b27aad",
+        "05cb6ebfaa9db605ec24300d628658922b61dd2d5021aa12c8ac3cbb4f703280",
+        "70fbd53c9a6e98a2ce733aa3a068c9de4eb5e8bda2b05330c7f407fe4e18fc68",
+        "662d8c878587e8ebf99a975a2148aea099a3d631e7d81f94ab4802791e6ae67f",
+        "9fef47d0959ef1473a615a281242ef65f1608cf8afaccee529915bbf11b0459f"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "cacd4cfa721133a5373cc414a393c3e065ffbff60f6f1a466d04cfa8d4a4a9e3"
+    },
+    "Shapley_quality of the product_mannequin.csv": {
+      "query": "How would you describe the quality of the mannequin",
+      "input_sha256": "fd8b3f41ecd3c841adc82bce33ef1532823b8989946ae8ccf3da19ef73621a05",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b672eae2089074ea38625a3707c7422655aedaa3f7ea3a92144f5286285d9d5e",
+        "8b4753c9ff99d59375a499b2e0694ea0511c69d380e4ebe4141b6b708ad84480",
+        "5dc3b57f6a182174ea1d8c839011857cfab55545fd9af3b03c8da860279fd346",
+        "c56aa22b3fb66666b56436c5c12dd7eed0b02e4e2c0b7770b8313f89cccbdd26",
+        "a4d35241b55a2bbbcf7c125d4c96dde529e6f7b4cd60b50811a1ed5fd2a3c0df",
+        "f3bee6f2947af8958e92d73bea3b058c68addf09ad547cf7b4c0c482fa2a9610",
+        "4b39d26ae346a257fc58ce3417eb25a4347b3283f995c767b4ee426dba153d0e",
+        "fee3e821ce17df098c65b0dc1ea2b7a5257f1e7e77c23cbab0d2247903aa7861"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "db4300b49c9bb396759e380e5b34884d350e4897f535cd82d767dd36b554cade"
+    },
+    "Shapley_quality of the product_nail_aid .csv": {
+      "query": "How’s the quality of the nail aid",
+      "input_sha256": "b52a8434c01c57c1e40c851874ff131084a4d618ef11f8a82f2c7f4c3948dd26",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "96a41d6ac1ee181f1d8eea98ac11e9141311ddaff5a1c9ba451523d6434f37d3",
+        "1cca91ea6940ccae259c0a01bc559203a1cde8f5c58147edba2484becff376c3",
+        "9a137fe4623e465c92bdca88399fbdd14427312e818080da73434079903e4b32",
+        "9d0630e5da7c4ad46202f2bf3b2bd620f9c111be80459c9ae3634ce3923ea704",
+        "027b475081a77ad650b829623bb5eaeb4e002aae0df8e90a6b4a421ea47a1f27",
+        "598b88067d023dee203ffc5e4b06b1208fb62e3a5b1579c22c99df4b01b3214b",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "de9ec734ccc9c3f1274852f079e491387b316ad14fb747fbe472bd9bdc4c0a92"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "27b2c2c96280daff0fae183ed699efa530db6897a66672813b8dafdff6f846f3"
+    },
+    "Shapley_quality of the product_nail_polish.csv": {
+      "query": "How’s the quality of the nail polish",
+      "input_sha256": "5c1338542523e7205a6684b9259767a9afa222afba2d71c61b0a4fce422405e0",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "01afc51971dc63b60acb4bb2e2b87c17e7855fd01259d78b1984564ebf64fd5e",
+        "10f84a9526c345dbf9978efdb3891fea2d47670a55b4971ff5cda6208b4c420a",
+        "a59517ba1e588e8673e4bcc7429478186b88edd828001e9f1a30b84362c46b9c",
+        "e00cec5b5c178e1f2dc62ab733e97314faac2db4b2c2574b9642d5fd0f7c9a38",
+        "ad45c0d904f4b9f5e9a59f53971c5c0efa72baa858b40605ec3ecf5bf15aef33",
+        "aadfc2b01292d9ae0a191ceacfa833eb65ced0f9276040088d5b0694cb337c2e",
+        "7c68fed4b5314f2ba5c48c9b62bb1ed2bfb27b811f95ebda65e4f6a1450f7f86",
+        "8be222a8882b9d615a0ff2abbbf08131df59958f7f5c1030d32c1f3f4cdf8fd4"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "5ab496bf8bdbc409bdb0074c09e7c13a5cd7953d950b87501129fbd82a4afff0"
+    },
+    "Shapley_quality of the product_tint_Kit.csv": {
+      "query": "How's the quality of the tint kit",
+      "input_sha256": "dbe5e98e0303211221f73ed891a9cdf3f12569c047dd41d375adff457463b3a8",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "d68bc8f58c4483ef9321ef1bedd0959c7f686f2838559eeccbe3f3825f931004",
+        "98f00336cf9b2aece87a56dfcffa4fb4c2f5267ccab1d86275293e24734465ca",
+        "a9294d1e494dc8de600795e940d514c1c48465aaa72488968d8d58b0a1f1659d",
+        "b34f4fca3d9fed0638056034f32ec1d5ca5a4b92df59164ebbb15829f93d8c86",
+        "7fff6bff7e5a43aa75c4e30778c3c6c9fa0664895e936e7b105cb737489931a9",
+        "9b24928a567a41a149c3f72025afa7ff89bdfd6d6ee0f34e5bb2b9720b2732eb",
+        "e5a3294ff019cdd0153e9c02ef3e0b5a683344e3882768970bbe418196f971f8",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "234029bd5611fc0808e8ecf35010c2e9bfcfc8f1b4a3c4c0ca66589c08c73240"
+    },
+    "Shapley_size of the product_Massager_Scalp .csv": {
+      "query": "What size is the scalp massager",
+      "input_sha256": "94257efae0c6d39621ec578f7becb90a280d2ad24ac0f990e89f4b046f48bc1e",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "97f2a50e09f712b39a8f4d20e76665380ebd7d6932be7e101925c2f6e8fc0901",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "0651f53989d6f6a752c654d095a32132e5665f0c15bf96a9a21a957db3bf3a7b"
+    },
+    "Shapley_skin softness of the product_Bath_Wash.csv": {
+      "query": "Does the bath wash make skin softer",
+      "input_sha256": "269513cfa08a929a8e675d17b868d7403854656391bcd74b5cf1598ddcdb5b9a",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "950d03cd8ed865c440df9b304daa3122d1a953cfc932a180568d5fdc795cc3d1",
+        "3d06e51899735911b52a1bb1c90c59e71a3a31fd6b7e6030cb48ce0bc146d88f",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "9ae440102d15e4d11e158999343512d673f6485e87263983ac6186b64c46252d",
+        "8df3252cd1b199598fd751d712467645a45accc95cd362ec33070cba45904591",
+        "7d0d5ae51db2538415c32dfd2c09fff3d715f052a19718f9ac81c7f9d0ab6558",
+        "478ea2f99e22e8e97cbd03cd2c94b0cbecfff7ce12bb45f2a46dfae78d7290e4",
+        "aaea35b3c5d2f9ee58177673f5519f386030949107a29614d3012eec3da42ec1"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "5b4888ef5ae7eb387b39fa1f995a9f26e03548db4a357fb01e6fbbed72f0d1de"
+    },
+    "Shapley_smell of the product_Makeup_brushes.csv": {
+      "query": "Does the makeup brush have a smell",
+      "input_sha256": "ca8573968355f9a708c1f049c18650a845c6dabc1b03be2d4d80686aa33b203d",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "f5b5c93d09f003d9cd80d1daed60b2092a8eb2388091353f2a27b745fb2a5995",
+        "dbed5aa509672b59e38dd9ce410d4301715f15eadf9061d6237c9531c5e05254",
+        "0c233c30a9f0d7e583ec8503d57e9c8a02e211eef5c7f1294c663b9822d7e90a",
+        "5adfd0d9a85d86da9877322906dcf4ca78d8f35df7f3c2cef2bd28cc252ba5cc",
+        "7c87c327ffc906d35cac480a5f4139b01fe9287066158975ede4d94d1e537687",
+        "cb9e6c6639d98ff60871ea6efd820b597ba343ff7c09f12f51371e53ec674bff",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "603b4e2f237c79df76d1841d631e02f8e1babc32b251ae1d01ba98e32aa57c07"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "b7e89ab3c91ca8a8756dd585aa86a951aa08fbf24541f6f5be34a26ff350f2c2"
+    },
+    "Shapley_softness of the product_hair_brush.csv": {
+      "query": "Is the hair brush soft and gentle on hair",
+      "input_sha256": "26e520c66f608d1e8f7152004f77112390caac5881fce37bc7eda76b6777fa23",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "93834f7534eb23635f6c57c39f8470e375e6c1af8f6ad9544b65accfcfd9dc4d",
+        "401bf95a45d735de69db63a796357ee82ef6b4fb3149a8b0c6d1faf519996775",
+        "4bc8b850fd2f73993b1f9b157438d2581f8735b91e757939badb66b9a2336592",
+        "2b24517837de74af8f2f1dcfe3576f832d0180ff2cf4660edcc5478be01059d4",
+        "1b7c14a0e7746fc86a86f20efbc9175a11ff05bbd1b99c2f8ec312719127f278",
+        "2db0248143c92d38856df1fbc01a030f5cdf50fd061c31f224e97855cf67cc79",
+        "3c079569426040e80abdbdcd3cd72c218a21cfe47e9e5e4f20d3194ad9971d75",
+        "5b3da1d2900033a83943b54542655d9db63eae5dd6876bb53d8c284bf2ebe86c"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "cec07b98e932ce2889bdac23fabe2962fe4882e72247aab4b28f80b497cfcc6c"
+    },
+    "Shapley_speed of the product_hair_curler.csv": {
+      "query": "Is it easy and quick to use",
+      "input_sha256": "167acd4469e62083441f7630f907ad075701f1d98647932a77229f09dcdc12f2",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "50b9c0e1ac446ba9bd2e0920514b7ac35154618f3e11aec2703728830922561e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "ebab187e0b7ebbb923ee9b9c030591d4d208c95e674d4412920d1081263e524c",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "3ac8b89d5a13d3ea6c353a57f7621f97b9b8dff4d50a88a8997e31ec0af4a9de"
+    },
+    "Shapley_texture of the product_hair_styling_agent.csv": {
+      "query": "How does the texture of the hair styling agent feel",
+      "input_sha256": "972c90e82bc1748986d1b82e11fdafcaf54db48b5595cd0acde6607bd3871bcc",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "5aa652796e0fcb1f11f842efaab1e6bf3d47a4470b27c321aef2b0aff2c67d7b",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "f94655ef8c9f46ecc3138dec31ea0e5bafb5b8a554167888158c3596c16ac7ca"
+    },
+    "Shapley_the product sucks_gift_card.csv": {
+      "query": "Does it not work well",
+      "input_sha256": "9d585c11fb067134f03c016564735dd1c326326c4c4cbc5de293dca3a50ad15a",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "432d9e343ca02d6ddbb2c631697e6ff027c4e69a5826109d35dc421d68e75c84",
+        "8d59e95fa51c45088f808658adbb64fe1505ac5ed33795bd7f5bfa955776ba51",
+        "2d7bd0e8984f028801b78bd6ada0c2138542d4859ab4c772528e310ad1e0c3e5",
+        "29cef5f78d4cdfa270218d1db1bfe6584fdbaf998c6ab8231e4be0d48ba2adb5",
+        "78efed3a0d2cd626f997733d0be5ab4d4a6122cfbcafe66b80a9a38f2a713886",
+        "7418ee0291c240617650cfdc950b22dacdcae52ac337b92a83dd694b37775036",
+        "bd12819aca0e7c233327600c84a331b30d9e075994fe5c3917dd5487445bf5c7",
+        "479ccfd5b8acec4086264d9ee9b7ad04cf51af1b294c640a0f8f811de3e0dbd2"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "534d639ad3a6f044d821e4e07b11d5214b532544e30e3e9d6eaea4b79a6f9132"
+    },
+    "Shapley_the quality of the product_PS5.csv": {
+      "query": "How’s the quality of this product",
+      "input_sha256": "3855741d2569ea9d2d03a45bf4edd9d81b8a35dfbf690c966937eb9769e11dc8",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "46b13100da143adc372a764237b4dc1713694c407e186c2963379d4ad57a79db",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "40d6b1ffb17114ce89fbe3791e34f7ac07efd0941c42c5df514427acd2929e28",
+        "5903064ccef31f89e5999d17d9d6627f0b376385266d41aaf5e530972286cad3",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "d1873dcce25176fc0b4d448993a0f781b2c97f22c159a890da0dcd19fd95dbb3"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "7dd7b5f7573c629e18ad549997b7cc2b4962c9c5dcdf670164080bb8d5716188"
+    },
+    "Shapley_the quality of the product_headset.csv": {
+      "query": "What’s the overall quality of the headset",
+      "input_sha256": "8d9d3bd695430da30bce16398fb6183280a5ba436c6680d17747a53dfa03ee3a",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "b7beca1c19d65d1046c1a3be5e1c59dd625bbc83340096fe8a4380edf48a10e2",
+        "c51b89400bc972597702346354f9cc2c1f87eddcc548731e9c8856b72b2937f1",
+        "ec564c49fc6d28295beacbd13d622cf0e34a3ed946d474d4311823b41f0e2444",
+        "651d7dc9ac2a60f902b75d10cbafc93032b9ae0142f2c2af618cac808c5745a8",
+        "9590c65111cbfb2586e336144bbb32d17da6f9496e347a910d4180161d2ae235",
+        "8d4fa65ef44b5e171aab35ba4e6e934e6122e568f4450919e519f4d3294a534b",
+        "c8e55b536bb8d0f017559cba58a918e37966081770897128c51a3cf4447246a0",
+        "2882861d32143738f84deaaedba290b3679fa69c7e70081f745dd7e396df9584"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "27325e3081656a42cf6acba5fd367fd11190ae3a1f796f9099382683e453f84a"
+    },
+    "Shapley_the quality of the product_switch.csv": {
+      "query": "How would you rate the overall quality of the switch",
+      "input_sha256": "4a8357e710f9b06ff08c807ea0c65df3e4702c0352c4999436cc48343237bbe5",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "c02e0bf059b3eeeb85a248735432f15b5e13464809b90da9a72721a5d3b09575",
+        "2aa89d9b83eb7b427ec7e58a7d8006b5ebe329e7aa3b7c2c187f22a577ee5882",
+        "2643627aabd4f2c1a28cb2bc25d802f152b94b2ecb55b98912fc1dccce4e4b2c",
+        "397c29eb25949af80b337545e20bdc4dd9972c9d05f9bc2fe126ffbeeef0f1b5",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "fe47d366b151a4691572ded0bd951d451341d92f488037b02ec493196fbb8948",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "9c018c925042c6e3be505f473b72cde4d21da43cc0ccfa9eb586536be0a90c7e"
+    },
+    "Shapley_travelability of the product_Hair_Diffuser.csv": {
+      "query": "Is the hair diffuser compact enough for travel",
+      "input_sha256": "d3718e367a093a97f18dd1239ca87ad710204e7237f0a22410f2ed9c620ae1fc",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "f57fecf0bff18f1ee4a78c4a97df937ce126328bf6ed63671b89dfbc35d76a27",
+        "0c368624a51f67bb5ce0c915075ce3b84142ac7725eea0c9fd421dd47f0c1496",
+        "2bf631dd27c33ddf04494939304f9ade5b5a198c01ab800e8a336533877f0578",
+        "c2b145a0dbc268c2dc07559ca4fda5d67da1ef1a0d9974096cc08bb8fb255f94",
+        "9bba8849acca47a3d0eb1cc0748d64dc6b2b085cf231b7f268f7474ae924ca15",
+        "9a6ae53a75e695ce4b1f42bda4565c96224249ffd20c7b0a63145ca9d27f68e2",
+        "a516cccff6f7fb9053e9423f414fc46ed9e83c8772fe0d97f6ea21e0abcb46a7",
+        "98c7bf9517c36768f34b2ad37c6fd4d479411771f3c889e01849441d2b7f8ef8"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "edc53e1a3dd0ab871969807530637393976457cfdf45bdd171e84c2a50a8a63a"
+    },
+    "Shapley_unresponsiveness of the product_switch.csv": {
+      "query": "Does the product experience unresponsiveness",
+      "input_sha256": "6fe57b43124e23b17e6a4aca64f0e87960f627de5ace4af107fb5e4d4e5c6f46",
+      "metadata_warnings": [],
+      "document_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "singleton_summary_sha256": [
+        "14e223e55f646a7efd6ce321a323acf9f0aa70c90887e9f4580ceefd15742dd2",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "0bc6c2a5919cc7986c004ec34830e48fbb750b7d0050c339bdcfc7de894ca987",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e",
+        "2f53750079fd79a3c021b52ad502f4618683c40756b015854ff6979c0b298632",
+        "520504932dff125fd22ce85d00ce231c9da41899ee7d4b1e0fbdaef5f9742a1a",
+        "7e43498587dfbe837433333dc28466b34a20c0a0a8d09a122ae6332e99b9586e"
+      ],
+      "returned_model": "text-embedding-3-large",
+      "response_id": null,
+      "array_sha256": "21cfd6b543405a091b766f9fbd22c6e07fdc316b8fde68d281685d189e3252b8"
+    }
+  }
+}
