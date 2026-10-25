@@ -1,0 +1,14 @@
+{
+  "selected_file": "data/figure2_example/coalition_scores.csv",
+  "selected_sha256": "dccb39acfb0aad0149f4e60b5e171ed8e0b8e031e6ac77e596d46402992c37d9",
+  "selection_date": "2026-10-25",
+  "selection": "Selected by the author for the Figure 2 default input.",
+  "author_description": "The author identifies this as the paper Figure 2 data.",
+  "recorded_derivation": "The preserved input-generation record documents a SciPy milp score adjustment constrained to reproduce the printed exact and Cluster Shapley annotations. It changes 32 coalition avg_score values, with total absolute change 27.25 and maximum change 1.0.",
+  "evidence": "score_history.json preserves the unchanged prior generation record and adjusted coalition list; full selected source CSV remains in private input-history materials.",
+  "historical_source_script_sha256": "65f13276ef0efdf2f929aef0741dd151b91c43d04ee1f4d09a2a184f52006924",
+  "verification_scope": "Direct offline calculation reproduces the paper two-decimal annotations. This match does not independently establish an original LLM-run identity.",
+  "runtime": "The Figure 2 plotting script reads this file directly, recomputes both allocations, and has no fallback or annotation override.",
+  "author_selected_source_csv_sha256": "128ac7c6edeb94fe16ef6fcb8f503cabe9a55c554c08b9b8fa5790d0778d75b1",
+  "runtime_normalization": "All 255 selected coalition scores are numerically unchanged. Keep only subset and avg_score; replace inherited Comment rows with exact Shapley values calculated from those scores."
+}

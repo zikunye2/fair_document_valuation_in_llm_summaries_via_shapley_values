@@ -1,0 +1,41 @@
+{
+  "original_pdf_sha256": "dd01c2c77487eaf2ec83b2d7552ca96752009c004a73518415640d69f9c81cb4",
+  "original_pdf_bytes": 59988,
+  "original_pdf_content_object": 9,
+  "marker_form_object": 13,
+  "legacy_cache_member": "others/temp_data/lipschitz_validation_results.csv",
+  "legacy_cache_sha256": "51017a8d2317be75f42a58545b5afe5660ac6099ee4ccb1a5d3e308f0d971592",
+  "legacy_rows": 84672,
+  "all_coalitions_sha256": "30d21a763b73530d1c17abdb153cbb5cc27474d5072d071c4a3bc4e7398e783f",
+  "all_coalitions_rows": 86016,
+  "pdf_axes_rectangle": [
+    42.91875,
+    39.496875,
+    797.65,
+    516.4
+  ],
+  "data_x_limits": [
+    0.01,
+    1.0
+  ],
+  "data_y_limits": [
+    0.0,
+    10.0
+  ],
+  "transform_x": "0.01 + (pdf_x - 42.91875) * 0.99 / 797.65",
+  "transform_y": "(pdf_y - 39.496875) * 10 / 516.4",
+  "transform_basis": "PDF clipping rectangle and independently corroborated tick positions; no fitting to cache data",
+  "encoded_marker_placements": 4955,
+  "marker_centres_inside_axes": 4555,
+  "marker_support_intersects_axes": 4571,
+  "match_tolerance_euclidean": 1e-10,
+  "max_nearest_coordinate_error": 2.9900526499204716e-12,
+  "max_assigned_coordinate_error": 2.9900526499204716e-12,
+  "distinct_assigned_cache_rows": 4955,
+  "coordinate_candidate_count_min": 1,
+  "coordinate_candidate_count_max": 2899,
+  "row_identity_ambiguous_count": 4898,
+  "row_identity_unique_count": 57,
+  "selection_file": "archival_plot_selection.csv",
+  "interpretation": "All PDF-encoded marker coordinates are compatible with distinct nonempty-coalition rows of the preserved cache. Assigned rows supply an equivalent coordinate selection; ambiguous original row identities are not recovered. The PDF encodes 4955 placements; no missing input points are invented."
+}

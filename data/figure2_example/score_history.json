@@ -1,0 +1,235 @@
+{
+  "dataset": "Shapley_the quality of the product_switch.csv",
+  "date": "2026-09-15",
+  "epsilon": 0.05,
+  "published_exact_shapley": [
+    0.59,
+    1.58,
+    1.83,
+    1.25,
+    1.44,
+    0.53,
+    1.61,
+    0.17
+  ],
+  "published_clusters_one_indexed": [
+    [
+      1,
+      6
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "published_cluster_shapley": [
+    0.58,
+    1.51,
+    1.88,
+    1.18,
+    1.53,
+    0.58,
+    1.53,
+    0.21
+  ],
+  "method": "mixed-integer program (SciPy milp / HiGHS): quarter-step scores, minimum total absolute change, each score changed by at most cap points, zero-score coalitions fixed, full-set score fixed, exact and cluster Shapley values constrained to round to the published values",
+  "cap_points": 1.0,
+  "solver_status": "Time limit reached. (HiGHS Status 13: Time limit reached)",
+  "coalitions_changed": 32,
+  "total_absolute_change": 27.25,
+  "largest_change": 1.0,
+  "calibrated_exact_shapley": [
+    0.5896,
+    1.5783,
+    1.8348,
+    1.2521,
+    1.4378,
+    0.5259,
+    1.608,
+    0.1735
+  ],
+  "calibrated_cluster_shapley": [
+    0.5833,
+    1.5083,
+    1.8833,
+    1.1792,
+    1.5271,
+    0.5833,
+    1.5271,
+    0.2083
+  ],
+  "changes": [
+    {
+      "subset": "1",
+      "archived": 6.0,
+      "calibrated": 5.25
+    },
+    {
+      "subset": "2",
+      "archived": 7.0,
+      "calibrated": 6.0
+    },
+    {
+      "subset": "3",
+      "archived": 4.75,
+      "calibrated": 3.75
+    },
+    {
+      "subset": "4",
+      "archived": 5.0,
+      "calibrated": 4.0
+    },
+    {
+      "subset": "05",
+      "archived": 6.0,
+      "calibrated": 5.0
+    },
+    {
+      "subset": "15",
+      "archived": 6.0,
+      "calibrated": 7.0
+    },
+    {
+      "subset": "015",
+      "archived": 8.0,
+      "calibrated": 7.0
+    },
+    {
+      "subset": "25",
+      "archived": 7.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "35",
+      "archived": 4.75,
+      "calibrated": 5.75
+    },
+    {
+      "subset": "01235",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "45",
+      "archived": 5.0,
+      "calibrated": 6.0
+    },
+    {
+      "subset": "6",
+      "archived": 6.0,
+      "calibrated": 5.0
+    },
+    {
+      "subset": "46",
+      "archived": 8.75,
+      "calibrated": 9.75
+    },
+    {
+      "subset": "56",
+      "archived": 6.0,
+      "calibrated": 7.0
+    },
+    {
+      "subset": "456",
+      "archived": 8.75,
+      "calibrated": 9.0
+    },
+    {
+      "subset": "0456",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "03456",
+      "archived": 9.0,
+      "calibrated": 8.75
+    },
+    {
+      "subset": "07",
+      "archived": 6.0,
+      "calibrated": 5.5
+    },
+    {
+      "subset": "037",
+      "archived": 8.0,
+      "calibrated": 7.75
+    },
+    {
+      "subset": "47",
+      "archived": 5.0,
+      "calibrated": 4.5
+    },
+    {
+      "subset": "012347",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "012357",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "012457",
+      "archived": 9.0,
+      "calibrated": 9.5
+    },
+    {
+      "subset": "0123457",
+      "archived": 9.0,
+      "calibrated": 9.25
+    },
+    {
+      "subset": "67",
+      "archived": 6.0,
+      "calibrated": 5.0
+    },
+    {
+      "subset": "012367",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "012467",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "013467",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "23467",
+      "archived": 9.0,
+      "calibrated": 10.0
+    },
+    {
+      "subset": "023467",
+      "archived": 9.0,
+      "calibrated": 8.0
+    },
+    {
+      "subset": "123467",
+      "archived": 9.0,
+      "calibrated": 10.0
+    },
+    {
+      "subset": "0123467",
+      "archived": 9.0,
+      "calibrated": 8.0
+    }
+  ]
+}
